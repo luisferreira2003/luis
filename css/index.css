@@ -1,0 +1,28 @@
+body{text-decoration-color:black
+
+}
+
+.navbar  navbar-light bg-light{color: aquamarine;}
+{text-decoration-color: black}
+
+p{color: black;}
+
+h4{color: black;}
+
+h5{color: black;}
+.btn btn-primary{color: darkblue;
+}
+.row{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+h5 {
+  background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.img{width: 40%;
+height: 20%;}
+
