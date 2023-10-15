@@ -2,7 +2,8 @@ body{text-decoration-color:black
 
 }
 
-.navbar  navbar-light bg-light{color: aquamarine;}
+.navbar  navbar-light bg-light{color: aquamarine;
+background-color: aqua;}
 {text-decoration-color: black}
 
 p{color: black;}
@@ -23,6 +24,7 @@ h5 {
 -webkit-text-fill-color: transparent;
 }
 
-.img{width: 40%;
+.img {width: 40%;
 height: 20%;}
+
 
