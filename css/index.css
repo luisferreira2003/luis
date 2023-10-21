@@ -30,8 +30,7 @@ font-weight: bold;
 .img {width: 40%;
 height: 20%;}
 
-.back{background-image:linear-gradient(135deg, red 100%, cyan)}
-a{background-color: }
+.back{background-color: red;}
 .imagemcadrs{margin-left: 15px;}
 
 
