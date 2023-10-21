@@ -2,7 +2,7 @@ body{text-decoration-color:black
 
 }
 
-{text-decoration-color: black}
+
 
 p{color: black;}
 
@@ -16,13 +16,10 @@ h5{color: black;}
     margin-bottom: 20px;
 }
 
-h5 {
-  background: linear-gradient(90deg,white  100%, #00C9FF 100%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+h5 {color:white;
 font-weight: bold;
-    margin-left: -14px;
-    margin-top: 12px;
+    margin-left: -14%;
+    margin-top: 12%;
     
     
 }
@@ -31,8 +28,6 @@ font-weight: bold;
 height: 20%;}
 
 .back{background-color: red;}
-.imagemcadrs{margin-left: 15px;}
-
-
+.imagemcadrs{margin-left: 13%;}
 
 
